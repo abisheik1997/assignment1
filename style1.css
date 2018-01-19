@@ -1,0 +1,36 @@
+body{
+    background-color: #442D4D;
+    margin: 30px 150px 30px 150px;
+}
+.logo img, .logo a{
+    display: inline-block;
+    height: 25;
+}
+.logo a{
+    width: 10%;
+    float: right;
+    text-decoration: none;
+    color: rgb(226, 226, 104);
+}
+p{
+    color: white;
+    font-weight: normal;
+    font-size: 2em;
+}
+.english img, .tamil img{
+    display: inline;
+    margin: 20px;
+    padding: 10px;
+    height: 230;
+    width: 150;
+    box-sizing:border-box;
+}
+.caption{
+    font-size: 1em;
+    text-align-last: right; 
+}
+.logo1 img{
+    height: 25;
+    float: right;
+    background-color: black;
+}
